@@ -1,4 +1,11 @@
 # Server side web programming
+## Technologies used
+* PHP
+* JavaScript Object Notation (JSON)
+* HyperText Markup Language (HTML)
+* Cascading Style Sheets (CSS)
+* Structured Query Language (SQL)
+* Javascript (JS)
 ## Things I have learned 
 * PHP syntax.
 * Classes, inheritance, interfaces in PHP.
